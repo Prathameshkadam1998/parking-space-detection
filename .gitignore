@@ -1,0 +1,12 @@
+# datasets and generated artifacts (regenerate with generate_demo.py / download per README)
+data/cnrpark/
+data/*.zip
+data/*.mp4
+data/*.joblib
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
